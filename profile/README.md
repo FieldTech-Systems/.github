@@ -1,6 +1,6 @@
 # FieldTech Systems
 
-FieldTech builds software for industrial field service. The FieldTech Platform takes in what customers send a service company (portal requests, email, texts, data-plate photos), works out what they need and how urgent it is, and puts it in front of the right person. Around it sit the facility and equipment records those companies maintain, a manufacturer document library the platform answers from, and the plant-floor telemetry coming off customer sites. Preston Refrigeration is the first service provider on it.
+FieldTech builds software for industrial field service. The FieldTech Platform takes in what customers send a service company (portal requests, email, texts, photos, files), works out what they need and how urgent it is, and puts it in front of the right person. Around it sit the facility and equipment records those companies maintain, a manufacturer document library the platform answers from, and the plant-floor telemetry coming off customer sites. Preston Refrigeration is the first service provider on it.
 
 Every repository here is private to the organization.
 
